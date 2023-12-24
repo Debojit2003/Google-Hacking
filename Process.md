@@ -12,3 +12,6 @@ Note: It's important to note that while Google dorks can be powerful tools for i
 1. Open Google chrome web-browser.
 
 ![Screenshot 2023-12-24 234448](https://github.com/Debojit2003/Google-Hacking/assets/98704361/959b7fde-6abb-4399-8250-218d6708d9e4)
+
+2. Now type “intitle:login site:eccouncil.org” and press Enter. This search command uses **intitle** and **site** Google advanced operators, which restrict results to pages on the eccouncil.org website that contain the login pages. An example is shown in the screenshot below. [Here we are choosing the target as eccouncil.org]
+
