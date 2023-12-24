@@ -17,3 +17,5 @@ Note: It's important to note that while Google dorks can be powerful tools for i
 
 ![Screenshot 2023-12-24 235256](https://github.com/Debojit2003/Google-Hacking/assets/98704361/c3565e6a-c255-438d-b417-00c41f7f3e45)
 
+3. Now, click back icon present on the top-left corner of the browser window to navigate back to **https://www.google.com**.
+
