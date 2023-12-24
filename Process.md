@@ -10,3 +10,4 @@ A comprehensive repository designed to offer individuals a wealth of information
 Note: It's important to note that while Google dorks can be powerful tools for information retrieval and analysis, using them ethically and responsibly is crucial. Unauthorized or malicious use of Google dorks to access sensitive or private information without permission is illegal and unethical.
 # Steps
 1. Open Google chrome web-browser.
+![Screenshot 2023-12-24 234448](https://github.com/Debojit2003/Google-Hacking/assets/98704361/959b7fde-6abb-4399-8250-218d6708d9e4)
