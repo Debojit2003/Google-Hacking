@@ -27,3 +27,5 @@ Note: It's important to note that while Google dorks can be powerful tools for i
 
 5. Select any link from the search results. In this case, we're choosing the first link displayed. When you do so, a PDF file will open, as depicted in the screenshot.
 
+![Screenshot 2023-12-25 001015](https://github.com/Debojit2003/Google-Hacking/assets/98704361/bff319c7-99b2-4c30-a19a-d708d04af292)
+
