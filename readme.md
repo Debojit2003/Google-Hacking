@@ -23,3 +23,5 @@ Note: It's important to note that while Google dorks can be powerful tools for i
 
 4. In the search bar, type the command: “EC-Council filetype:pdf” and press Enter to search your results based on the file extension **pdf**.
 
+![Screenshot 2023-12-25 000439](https://github.com/Debojit2003/Google-Hacking/assets/98704361/b65456a6-2ac0-4fe0-965a-5c11dae31f99)
+
