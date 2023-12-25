@@ -29,3 +29,76 @@ Note: It's important to note that while Google dorks can be powerful tools for i
 
 ![Screenshot 2023-12-25 001015](https://github.com/Debojit2003/Google-Hacking/assets/98704361/bff319c7-99b2-4c30-a19a-d708d04af292)
 
+6. Now use command : “cache:www.eccouncil.org” and press enter.
+
+![image](https://github.com/Debojit2003/Google-Hacking/assets/98704361/269b8c6e-86dd-4ea7-bea8-82190ba4c788)
+   
+7. This operator allows you to view cached version of the web page. [cache:www.eccouncil.org]-Query returns the cached version of the website www.eccouncil.org.
+
+![image](https://github.com/Debojit2003/Google-Hacking/assets/98704361/e3aebbf4-5b99-49f2-82a3-10ce044f381f)
+
+8. Now use command : “allinurl: EC-Council career”- Query returns only pages containing the words “EC-Council” and “career” in the URL.
+
+![image](https://github.com/Debojit2003/Google-Hacking/assets/98704361/a9b9b2a2-757f-4723-a2d7-7fd6572f2e5f)
+
+9. Use command: “inurl: cyber site: www.eccouncil.org”
+
+![image](https://github.com/Debojit2003/Google-Hacking/assets/98704361/d7e81832-fe2b-4a49-aee8-4311c9f26591)
+
+10. Query returns only pages in EC-Council site in which the URL has the word “cyber”
+
+11. Using Command: “allintitle detect malware”.
+
+![image](https://github.com/Debojit2003/Google-Hacking/assets/98704361/251d2fca-6e1e-4355-8020-6f044a58bc4a)
+
+12. Query returns only pages containing the words “detect” and “malware” in the title.
+
+13. Using command : “Antivirus inanchor:Norton”
+
+![image](https://github.com/Debojit2003/Google-Hacking/assets/98704361/009c6f7f-d330-4914-9061-ccb5fe19b073)
+
+14. Query returns only pages with anchor text on links to the pages containing the word “Norton” and the page containing the word “Anti-virus”.
+
+15. Use command : “allinanchor: best cloud service provider”
+
+![image](https://github.com/Debojit2003/Google-Hacking/assets/98704361/31cfd3cd-0396-49c3-820c-fb4e0cf07fc5)
+
+16. Query returns only pages in which the anchor text on links to the pages contain the words “best,” “cloud,” “service,” and “provider”
+
+17. Use command : “link :www.eccouncil.org”
+
+![image](https://github.com/Debojit2003/Google-Hacking/assets/98704361/5b23ae5a-cecc-4fec-b51e-60dccc0700f3)
+
+18. Finds pages that point to EC-Council’s home page.
+
+19. Use command : “related:www.eccouncil.org”
+
+![image](https://github.com/Debojit2003/Google-Hacking/assets/98704361/bdb64aea-f1b5-4b34-848f-56cfa9eca266)
+
+20. Query provides the Google search engine results page with websites similar to eccouncil.org.
+
+21. Use command : “info:eccouncil.org”
+
+![image](https://github.com/Debojit2003/Google-Hacking/assets/98704361/9d55c10d-58c9-4d81-8be8-a49d6e0280f6)
+
+22. Query provides information about the www.eccouncil.org home page.
+
+23. Use command : “location : EC-Council”
+
+![image](https://github.com/Debojit2003/Google-Hacking/assets/98704361/f038d38e-33ac-4a9b-8b10-353c1cf45423)
+
+24. Query give you results based around the term EC-Council.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
