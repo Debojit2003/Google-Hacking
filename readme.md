@@ -89,6 +89,7 @@ Note: It's important to note that while Google dorks can be powerful tools for i
 
 24. Query give you results based around the term EC-Council.
 
+25. For more reference refer to the cheatsheet attached.
 
 
 
