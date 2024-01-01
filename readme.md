@@ -91,6 +91,7 @@ Note: It's important to note that while Google dorks can be powerful tools for i
 
 25. For more reference refer to the cheatsheet attached.
 
+![Screenshot 2023-12-30 153409](https://github.com/Debojit2003/Google-Hacking/assets/98704361/19cb5e0c-c397-4221-b08d-f0d1773aef8a)
 
 
 
